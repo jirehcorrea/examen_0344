@@ -1,7 +1,9 @@
 # examen_0344
 ## codigo
-![image](https://github.com/user-attachments/assets/52e1224d-39ee-4794-b54f-fd0dd05a46bd)
-![image](https://github.com/user-attachments/assets/de5669bd-382a-4908-9334-31c49d5fad2c)
+![image](https://github.com/user-attachments/assets/71c74b11-561e-440a-8ee8-71beaacc086c)
+![image](https://github.com/user-attachments/assets/db36f553-8343-4873-a27c-c017292616df)
+
 
 ## resultado 
-![image](https://github.com/user-attachments/assets/70da6830-a5df-4f3b-b51f-1f7caa6e866d)
+![image](https://github.com/user-attachments/assets/89220f77-3a3f-46c4-aed4-ed58aace81ee)
+
